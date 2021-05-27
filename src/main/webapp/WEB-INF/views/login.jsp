@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="../../css/style.css">
-    <title>로그인</title>
+    <title>로그인 </title>
 </head>
 
 <body width="100%" height="100%">
